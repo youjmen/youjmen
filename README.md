@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**youjmen/youjmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Android Developer 
+- I'm Highschool Student Android Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Currently Learning 😆  
+  - [RxJava](http://reactivex.io/)
+
+
+<div align=center>
+
+</div>
+
+![youjmen's github stats](https://github-readme-stats.vercel.app/api?username=youjmen&show_icons=true)
+[![youjmen's github top language card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeongJinCa&layout=compact&theme=gradient)](https://github.com/youjmen)
