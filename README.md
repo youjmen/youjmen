@@ -2,7 +2,7 @@
 
 ### Android Developer 
 - I'm Highschool Student Android Developer. 
-- 
+
 ### Currently Learning 😆  
   - [RxJava](http://reactivex.io/)
   - TDD
