@@ -2,11 +2,7 @@
 
 ### Android Developer 
 - I'm Highschool Student Android Developer. 
-
-### Language
-<a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href='#'><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
-
+- 
 ### Currently Learning 😆  
   - [RxJava](http://reactivex.io/)
   - TDD
