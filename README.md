@@ -4,6 +4,7 @@
 - I'm Highschool Student Android Developer. 
 
 ### Currently Learning 😆  
+  - Good UI/UX
   - [RxJava](http://reactivex.io/)
   - TDD
   - Algorithms
