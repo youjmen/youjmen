@@ -5,11 +5,8 @@
 
 ### Currently Learning 😆  
   - Good UI/UX
-  - [RxJava](http://reactivex.io/)
-  - TDD
-  - Algorithms
+  - Kotlin
   - Android
-  - Dynamic Feature Module
 
 
 <div align=center>
