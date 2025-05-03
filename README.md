@@ -1,6 +1,8 @@
 ## Jaemin Yu
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -23,7 +25,7 @@ Sunday                   687 commits         ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 18:43:42 UTC
+ Last Updated on 03/05/2025 18:41:39 UTC
 <!--END_SECTION:waka-->
 
 ![youjmen's github stats](https://github-readme-stats.vercel.app/api?username=youjmen&show_icons=true)
